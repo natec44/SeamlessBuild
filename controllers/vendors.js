@@ -1,4 +1,3 @@
-// server/controllers/vendors.js
 const Vendor = require('../models/Vendor');
 
 exports.getVendors = async (req, res, next) => {
