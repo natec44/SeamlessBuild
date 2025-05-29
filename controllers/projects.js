@@ -1,4 +1,3 @@
-// server/controllers/projects.js
 const Project = require('../models/Project');
 
 exports.getAllProjects = async (req, res, next) => {
