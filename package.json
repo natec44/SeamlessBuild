@@ -2,7 +2,13 @@
   "name": "seamlessbuild",
   "version": "1.0.0",
   "private": true,
+{
   "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  }
+}
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
