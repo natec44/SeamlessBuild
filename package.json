@@ -9,10 +9,10 @@
     "serve": "vite preview"
   }
 }
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
+    "start": "start",
+    "build": "build",
+    "test": "test",
+    "eject": "eject",
     "serve": "serve -s build"
   },
   "dependencies": {
